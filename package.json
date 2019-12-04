@@ -1,0 +1,22 @@
+{
+  "name": "nvm",
+  "version": "1.0.0",
+  "description": "nvm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naftaliev/React-practice-1.git"
+  },
+  "author": "itsyaboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naftaliev/React-practice-1/issues"
+  },
+  "homepage": "https://github.com/Naftaliev/React-practice-1#readme",
+  "devDependencies": {
+    "create-react-app": "^3.2.0"
+  }
+}
